@@ -1,2 +1,2 @@
 # estonia_startup_data_analysis
-Analysing data from Estonian startups
+Analysing data from Estonian startups.
